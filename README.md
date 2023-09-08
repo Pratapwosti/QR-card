@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr project.png)
+![](images/screenshot.png)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
@@ -36,5 +36,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [Pratap Wosti](https://www.pratapwosti.com)
 - Frontend Mentor - [@pratapwosti](https://www.frontendmentor.io/profile/pratapwosti)
-- Twitter - [@pratapwosti](https://www.twitter.com/pratapwosti)
+- Twitter - [@pratapwosti](https://www.twitter.com/pratap_wosti)
 
